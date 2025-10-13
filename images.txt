@@ -2,7 +2,6 @@ centos:centos7.9.2009
 centos:centos8.4.2105
 tomcat:9.0.104-jdk8
 nginx:stable-perl
-busybox:stable-glibc
 python:3.13.3
 rockylinux:8.9-minimal
 rockylinux:8.9
